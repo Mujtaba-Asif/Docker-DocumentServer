@@ -5,3 +5,4 @@
   "flushInterval": 60000,
   "backends": [ "./backends/graphite.js" ]
 }
+// 
